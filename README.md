@@ -18,7 +18,7 @@
        [ Day by Day, Skill by Skill ]
   ╔══════════════════════════════════════╗
   ║ Week 1: IT Fundamentals              ║
-  ║ Week 2: Troubleshooting & Skills     ║
+  ║ Week 2: Essential IT Skills          ║
   ║ Week 3: Networking & Security        ║
   ║ Week 4: Cloud & Automation           ║
   ║ Week 5: Capstone & Career Readiness  ║
@@ -156,6 +156,8 @@ These tools and resources cover computer basics, networking, and software in mor
 
 This expanded version gives learners **50+ additional resources** to deepen their understanding of IT fundamentals. It also includes cheat sheets, hands-on labs, and less-known but essential guides. 
 
+---
+
 **7-day schedule** for completing **Week 1: IT Fundamentals**, including specific tasks, durations, and resource usage. The schedule ensures each day is productive, with breaks to avoid burnout. Each activity is designed to fit into a manageable daily workload of about **4–5 hours**.
 
 ---
@@ -265,6 +267,268 @@ This expanded version gives learners **50+ additional resources** to deepen thei
 
 ---
 
-### Weekly Total Time Commitment: **28-35 hours**
+#### Weekly Total Time Commitment: **28-35 hours**
 
 By following this detailed schedule, you’ll cover all key concepts, tools, and activities while exploring the 50+ resources and learning effectively. 
+
+---
+
+### **Week 2: Essential IT Skills**  
+**Goal**: Learn core skills for troubleshooting and managing IT systems.
+
+---
+
+#### **Day 8-10: Command Line Basics**  
+**Topics:**  
+- Windows Command Prompt, Linux Terminal.  
+- File navigation, permissions, and basic commands.  
+
+**Activities:**  
+1. Practice these commands:  
+   - Navigation: `cd`, `ls`/`dir`, `pwd`.  
+   - File management: `mkdir`, `cp`, `mv`, `rm`.  
+   - Permissions: `chmod`, `chown`.  
+   - Viewing files: `cat`, `less`, `more`.  
+2. Write a simple batch or shell script:  
+   - Automate file backups or create folders based on date.  
+
+**Tools:**  
+- Command Prompt (Windows)  
+- Terminal (Linux/macOS)  
+
+**Resources:**  
+- [Command Line Basics - Codecademy](https://www.codecademy.com/learn/learn-the-command-line)  
+- [Windows Command Line Cheatsheet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+- [Linux Command Line Cheat Sheet](https://maker.pro/linux/tutorial/basic-linux-commands-cheat-sheet)  
+- [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)  
+- [CLI Commands for Beginners](https://www.hostinger.com/tutorials/linux-commands)  
+- [Batch Scripting Guide](https://ss64.com/nt/syntax.html)  
+- [Bash Shell Command Summary](https://www.gnu.org/software/bash/manual/bash.html)  
+- [Interactive Linux Terminal Practice](https://www.webminal.org/)  
+- [Zsh vs Bash: A Comparison](https://www.geeksforgeeks.org/zsh-vs-bash/)  
+
+---
+
+#### **Day 11-12: File Systems and Storage**  
+**Topics:**  
+- File systems: FAT32, NTFS, EXT4.  
+- Disk management and partitioning.  
+
+**Activities:**  
+1. Create and format partitions:  
+   - Use Disk Management on Windows or `fdisk`/`parted` on Linux.  
+2. Explore storage tools:  
+   - Mount/unmount storage devices.  
+   - Analyze disk usage using `du`/`df` (Linux) or TreeSize (Windows).  
+
+**Tools:**  
+- VirtualBox or VMware.  
+- Disk Management (Windows), `fdisk`, `lsblk` (Linux).  
+
+**Resources:**  
+- [Understanding File Systems (MakeUseOf)](https://www.makeuseof.com/tag/fat32-ntfs-exfat-difference/)  
+- [Guide to Partitioning (TechRepublic)](https://www.techrepublic.com/article/how-to-partition-a-hard-drive-in-windows-10/)  
+- [Virtual Disk Setup in Linux](https://linuxhandbook.com/create-disk-partition-linux/)  
+- [Windows Disk Management Guide](https://www.windowscentral.com/how-use-disk-management-windows-10)  
+- [How to Use `fdisk` in Linux](https://www.tecmint.com/fdisk-command-in-linux/)  
+- [Disk Cleanup Tools for Linux](https://opensource.com/article/19/11/linux-monitoring-tools)  
+- [TreeSize Free (Disk Space Visualizer)](https://www.jam-software.com/treesize_free)  
+- [Linux Disk Space Cheatsheet](https://devhints.io/linux-disk-usage)  
+- [Filesystems vs Volumes](https://www.howtogeek.com/395077/what-are-the-differences-between-a-volume-and-a-filesystem/)  
+- [VirtualBox Disk Space Management](https://www.virtualbox.org/manual/ch05.html)  
+
+---
+
+#### **Day 13-14: Basic IT Troubleshooting**  
+**Topics:**  
+- Common hardware and software issues.  
+- Troubleshooting methodology: Identify, diagnose, resolve.  
+
+**Activities:**  
+1. Simulate troubleshooting network connectivity:  
+   - Identify a broken connection with `ping`, `traceroute`, and Wireshark.  
+2. Troubleshoot OS errors:  
+   - Resolve driver issues (Windows Device Manager).  
+   - Investigate slow boot times with Event Viewer or Linux `dmesg`.  
+
+**Tools:**  
+- Windows Event Viewer, Task Manager, Device Manager.  
+- Linux `dmesg`, `journalctl`, `htop`.  
+
+**Resources:**  
+- [HowToGeek Troubleshooting Guide](https://www.howtogeek.com/)  
+- [IT Troubleshooting Cheat Sheet](https://www.loggly.com/blog/it-troubleshooting-cheat-sheet/)  
+- [Wireshark Network Troubleshooting](https://www.guru99.com/wireshark-tutorial.html)  
+- [Windows Device Manager Basics](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/viewing-and-changing-resource-settings-for-a-device)  
+- [How to Use `dmesg` Logs](https://www.howtoforge.com/linux-dmesg-command/)  
+- [Task Manager for Problem Diagnosis](https://www.digitalcitizen.life/how-use-task-manager/)  
+- [Linux Troubleshooting Tools (SysAdmin)](https://linuxhint.com/basic-linux-troubleshooting-tools/)  
+- [Network Troubleshooting Tools List](https://opensource.com/article/18/3/top-tools-networking)   
+- [Common OS Errors and Fixes](https://www.howtogeek.com/125452/the-most-common-pc-problems-and-how-to-fix-them/)  
+- [Diagnosing Slow Boot Times on Windows](https://www.windowscentral.com/how-analyze-windows-10-boot-speed)  
+- [Using Event Viewer in Windows](https://www.lifewire.com/windows-event-viewer-2626085)  
+- [Diagnosing Hardware Issues with Linux Logs](https://www.tecmint.com/linux-log-files-management-and-troubleshooting/)  
+- [Blue Screen of Death Troubleshooting](https://www.howtogeek.com/163452/everything-you-need-to-know-about-the-blue-screen-of-death/)  
+- [Top 10 Free Network Troubleshooting Tools](https://www.geeksforgeeks.org/10-network-troubleshooting-tools-that-you-should-know/)  
+- [How to Resolve IP Conflicts](https://www.makeuseof.com/fix-ip-address-conflict/)  
+- [Linux Command Cheat Sheet for Logs](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)  
+- [Wireshark Sample Captures for Practice](https://wiki.wireshark.org/SampleCaptures)  
+- [The Ultimate Beginner's Guide to Troubleshooting](https://www.bmc.com/blogs/it-troubleshooting-tools-techniques-tips/)  
+
+---
+
+### **Daily Time Breakdown**
+For all activities in Week 2, you should dedicate **4-5 hours per day**:
+
+| **Day**    | **Activity Focus**                         | **Estimated Time**  |
+|------------|-------------------------------------------|---------------------|
+| **Day 8**  | Command Line Navigation & Basics           | 4 hours            |
+| **Day 9**  | Advanced Commands and Scripting Basics     | 4 hours            |
+| **Day 10** | Command Line Practice and Tools            | 4 hours            |
+| **Day 11** | File System Concepts & Virtual Disk Setup  | 4.5 hours          |
+| **Day 12** | Partitioning and Disk Usage Exploration    | 4 hours            |
+| **Day 13** | Network Troubleshooting Tools & Practice   | 4.5 hours          |
+| **Day 14** | OS Troubleshooting and Problem Diagnosis   | 5 hours            |
+
+---
+
+### **Additional Niche Tools & Resources (15 Gems)**
+
+1. [ExplainShell (Command Breakdown)](https://explainshell.com/)  
+2. [Cheat.sh (Command Cheatsheets)](https://cheat.sh/)  
+3. [Process Hacker (Windows Process Manager)](https://processhacker.sourceforge.io/)  
+4. [PingPlotter (Advanced Network Troubleshooting)](https://www.pingplotter.com/)  
+5. [Iometer (Storage Performance Testing)](http://iometer.org/)  
+6. [Tracert Command Explorer](https://www.geeksforgeeks.org/traceroute-command-linux/)  
+7. [Linux `iotop` for Disk IO Monitoring](https://linux.die.net/man/1/iotop)  
+8. [Sysinternals Suite (Windows)](https://learn.microsoft.com/en-us/sysinternals/downloads/)  
+9. [Netcat for Network Debugging](https://www.geeksforgeeks.org/netcat-nc-command-with-examples/)  
+10. [Linux `logrotate` for Managing Logs](https://linuxize.com/post/how-to-manage-log-files-with-logrotate-on-linux/)  
+11. [EtherApe (Network Activity Visualizer)](http://etherape.sourceforge.net/)  
+12. [TestDisk (Partition Recovery)](https://www.cgsecurity.org/wiki/TestDisk)  
+13. [Linux `strace` for Debugging Processes](https://man7.org/linux/man-pages/man1/strace.1.html)  
+14. [GParted Partition Editor](https://gparted.org/)  
+15. [Advanced Linux System Performance Tools](https://opensource.com/article/18/4/system-performance-tools-linux)  
+
+---
+## **Week 2: Essential IT Skills Schedule**
+
+Here’s a **scheduling layout** for **Week 2: Essential IT Skills**. Each day is structured to allocate **4-5 focused hours**, with clear tasks, durations, and breaks to ensure you can cover all activities and resources.
+
+---
+
+### **Day 8: Command Line Basics – Navigation & Commands**  
+**Goal:** Learn to navigate and manage files using the command line.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Read about CLI basics (Windows & Linux). | [Command Line Basics - Codecademy](https://www.codecademy.com/learn/learn-the-command-line) | 45 minutes   |
+| 2. Practice navigation commands (`cd`, `ls`, `pwd`). | Command Prompt, Linux Terminal                      | 45 minutes   |
+| 3. Practice file management (`mkdir`, `cp`, `mv`, `rm`). | [Linux Command Cheat Sheet](https://maker.pro/linux/tutorial/basic-linux-commands-cheat-sheet) | 1 hour       |
+| 4. Learn about permissions (`chmod`, `chown`).        | Command Prompt, Linux Terminal                      | 1 hour       |
+| 5. Explore CLI tools (e.g., `man`, `help`, `echo`).    | [Cheat.sh](https://cheat.sh/)                       | 30 minutes   |
+
+**Total Time:** 4 hours.  
+*Take a 15-30 minute break halfway through.*
+
+---
+
+### **Day 9: Advanced Commands & Scripting Basics**  
+**Goal:** Write and execute batch and shell scripts.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Read scripting basics (Batch & Bash). | [Batch Scripting Guide](https://ss64.com/nt/syntax.html), [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/) | 1 hour       |
+| 2. Write and test a simple shell script. | Linux Terminal, Nano/VSCode                         | 1 hour       |
+| 3. Write a batch script for file automation. | Windows Command Prompt, Notepad                    | 45 minutes   |
+| 4. Practice debugging scripts (`echo`, `set -x`).      | Command Prompt, Linux Terminal                      | 30 minutes   |
+| 5. Explore automation examples (backups, logs).        | [Linux Command Examples](https://linuxhandbook.com/linux-commands/) | 45 minutes   |
+
+**Total Time:** 4 hours.  
+*Take breaks as needed.*
+
+---
+
+### **Day 10: Command Line Practice & Advanced Tools**  
+**Goal:** Solidify command line skills and learn advanced utilities.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Practice CLI commands with scenarios. | [Interactive Linux Terminal Practice](https://www.webminal.org/) | 1 hour       |
+| 2. Explore `grep`, `awk`, `sed` for text processing. | [Grep/Awk Tutorial](https://www.gnu.org/software/grep/manual/), [Sed Cheat Sheet](https://devhints.io/sed) | 1 hour       |
+| 3. Work with pipes and redirection (`|`, `>`).          | Command Prompt, Linux Terminal                      | 45 minutes   |
+| 4. Learn about Zsh and its benefits over Bash.         | [Zsh vs Bash Comparison](https://www.geeksforgeeks.org/zsh-vs-bash/) | 30 minutes   |
+| 5. Review and document learned commands.               | Notepad or Markdown Editor                          | 30 minutes   |
+
+**Total Time:** 4-5 hours.
+
+---
+
+### **Day 11: File Systems Concepts & Virtual Disk Setup**  
+**Goal:** Understand file systems and manage virtual disks.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Learn about file systems (FAT32, NTFS, EXT4). | [File System Basics](https://www.makeuseof.com/tag/fat32-ntfs-exfat-difference/) | 45 minutes   |
+| 2. Explore disk partitioning (concepts).           | [Disk Partition Guide](https://linuxhandbook.com/create-disk-partition-linux/) | 1 hour       |
+| 3. Create and format a partition (Linux/Windows). | Disk Management (Windows), `fdisk` (Linux)         | 1 hour       |
+| 4. Experiment with mounting/unmounting drives.    | Linux `mount`, Windows Disk Management             | 45 minutes   |
+| 5. Analyze disk usage with tools (`du`, `df`).     | [TreeSize Free](https://www.jam-software.com/treesize_free) | 30 minutes   |
+
+**Total Time:** 4.5 hours.
+
+---
+
+### **Day 12: Partitioning, Storage, and Disk Usage**  
+**Goal:** Perform advanced disk operations and storage optimization.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Learn virtual disk setup in VirtualBox.         | [VirtualBox Manual](https://www.virtualbox.org/manual/UserManual.html) | 45 minutes   |
+| 2. Explore disk cleanup tools (Linux & Windows).   | [Linux Disk Cleanup](https://opensource.com/article/19/11/linux-monitoring-tools) | 45 minutes   |
+| 3. Practice resizing partitions and volumes.       | GParted, Windows Disk Management                   | 1 hour       |
+| 4. Explore storage performance testing tools.      | [Iometer](http://iometer.org/)                     | 45 minutes   |
+| 5. Review and document partitioning challenges.    | Markdown Editor                                    | 30 minutes   |
+
+**Total Time:** 4 hours.
+
+---
+
+### **Day 13: Network Troubleshooting Tools**  
+**Goal:** Use network diagnostic tools for connectivity issues.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Learn `ping`, `traceroute`, and `nslookup`.      | [Networking CLI Commands](https://github.com/robert-rr/networking-cli-cheatsheet) | 1 hour       |
+| 2. Explore Wireshark for packet analysis.          | [Wireshark Tutorial](https://www.guru99.com/wireshark-tutorial.html) | 1 hour       |
+| 3. Use `netstat` and `ipconfig`/`ifconfig`.         | Command Prompt, Linux Terminal                      | 45 minutes   |
+| 4. Simulate network issues (e.g., DNS problems).    | Manual practice                                     | 45 minutes   |
+| 5. Document findings in a troubleshooting log.     | Markdown Editor                                    | 30 minutes   |
+
+**Total Time:** 4.5 hours.
+
+---
+
+### **Day 14: OS Troubleshooting & Problem Diagnosis**  
+**Goal:** Resolve common OS errors and debug issues.
+
+| **Task**                             | **Resource/Tool**                                    | **Duration** |
+|--------------------------------------|-----------------------------------------------------|--------------|
+| 1. Learn troubleshooting methodology (Identify-Diagnose-Resolve). | [IT Troubleshooting Guide](https://www.bmc.com/blogs/it-troubleshooting-tools-techniques-tips/) | 1 hour       |
+| 2. Diagnose driver issues with Device Manager.     | [Windows Device Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/viewing-and-changing-resource-settings-for-a-device) | 1 hour       |
+| 3. Investigate boot issues with Event Viewer/Linux `dmesg`. | Event Viewer (Windows), `journalctl` (Linux)        | 45 minutes   |
+| 4. Explore advanced OS tools (Process Explorer, Task Manager). | [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | 45 minutes   |
+| 5. Review common troubleshooting scenarios.        | [Common OS Errors](https://www.howtogeek.com/125452/the-most-common-pc-problems-and-how-to-fix-them/) | 30 minutes   |
+
+**Total Time:** 5 hours.
+
+---
+
+### **Weekly Total Hours:**
+**30-31 hours** 
+
+Across 7 days, **4-5 hours daily**. This balanced schedule ensures thorough coverage of Week 2’s topics while maintaining consistency.
+
+---
+
+With this, **Week 2** is ready done! Jump into **Week 3: Networking and Security**.
